@@ -20,4 +20,10 @@ public class CalculadoraTest {
 		int n = (int) Calculadora.restar(500, 5);
 		System.out.println("n = " + n);		
 	}
+
+	private static void test_multiplicar_enteros() {
+		System.out.println("\ntest_multiplicar_enteros\n");
+		int n = (int) Calculadora.restar(500, 5);
+		System.out.println("n = " + n);		
+	}
 }
